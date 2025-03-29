@@ -1,6 +1,5 @@
 # Practice Git
-
-Изменения из ветки dev
-Это мой учебный проект по Git.
-Это мой учебный проект по Git.
-This is a practice project for learning Git and GitHub.
+Last spring, when I took the Introduction to AI Programming class, the professor introduced us to GitHub and helped us register there. However, we didn't do anything else with it, and I didn’t really understand why we needed it for programming. This assignment helped me learn how to use Git and GitHub in a more practical way. Before, I only knew a little about Git, but now I understand how to create a project, save changes, and work with different versions.
+I also learned how to create a new branch called dev. This is useful because it lets me work on changes separately before adding them to the main project. After making changes, I used a pull request to merge them into the main branch. This showed me how teams can work together on the same project without mixing up their changes.
+Using GitHub made everything easier. I liked how pull requests let me review my work before adding it to the main project. I also found it helpful that GitHub keeps a history of all changes, so I can always go back if needed. Now I understand why GitHub is so popular for team projects.
+Overall, this was a great learning experience. I feel more confident using Git and GitHub and will definitely use them in future projects.
